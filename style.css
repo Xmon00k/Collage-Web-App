@@ -1,0 +1,30 @@
+h1
+{
+    font-family:Impact;
+    font-style:unset;
+    font-weight:1000;
+}
+h4
+{
+    font-family:'Franklin Gothic Medium';
+}
+#camera
+{
+    width: 500px;
+    height: 400px;
+    border-color:blue;
+}
+.coloum
+{
+    display: inline;
+    padding: 10px;
+}
+img:hover
+{
+    border-radius: 30px;
+}
+#footer
+{
+    bottom: 0;
+    background-color: grey;
+}
